@@ -4,7 +4,7 @@ public class main {
     private static String CLASSNAME = "com.mysql.cj.jdbc.Driver";
     private static String DBURL = "jdbc:mysql://localhost:3306/mydb";
     private static String USER = "root";
-    private static String PASSWORD = "Sixgun1254?m";
+    private static String PASSWORD = "";
     public static void main(String[] args) throws ClassNotFoundException, SQLException {
         // DB 접속
         ResultSet rs = null;
